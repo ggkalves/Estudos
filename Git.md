@@ -15,4 +15,16 @@ Sempre que desenvolvedores criam um novo projeto, é normal que com o tempo surj
 que o cliente pode pedir futuramente, etc. Isso até mesmo depois do lançamento oficial, por isso ocorrem as atualizações de versões. E o sistema de controle de versão ajuda
 a acompanhar as mudanças feitas no código além de registrar quem efeuou a mudança e permite também a restauração de um código removido ou modificado.
 
+# Os conceitos do Git
+
+Antes de tudo é importante entender os conceitos do Git, a primeiro momento pode assustar, mas a compreensão de pelo menos os principais conceitos dessa ferramenta
+pode facilitar passar por obstáculos característicos dos primeiros momentos em que manipulamos algo novo.
+
+<h2> Repositórios </h2>
+
+Os repositórios são os ambientes criados para armazenar códigos.
+
+Você pode possuir um ou mais repositórios, públicos ou privados, locais ou remotos, e eles podem armazenar não somente os próprios códigos a serem modificados, mas também imagens, áudios, arquivos e outros elementos relacionados ao seu projeto.
+
+É através dos seus repositórios públicos que outros programadores poderão ter acesso aos seus códigos no GitHub, podendo, inclusive, cloná-los para adicionar melhorias.
 
