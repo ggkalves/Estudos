@@ -162,11 +162,13 @@ Para mesclar as alterações de uma branch em outra, pode-se utilizar o seguinte
 Isso incorporará as alterações da branch especificada na branch atual. É importante resolver quaisquer conflitos de mesclagem que possam ocorrer durante esse processo.
 
 <h3> Gerenciando Branches </h3>
-É possível listar, visualizar, renomear e excluir branches no Git. Alguns comandos úteis para gerenciar branches são:
+É possível listar, visualizar, renomear e excluir branches no Git. 
+Alguns comandos úteis para gerenciar branches são:
 
 - Listar branches existentes: `$ git branch`
 - Mudar para uma branch específica: `$ git checkout <nome_da_branch>`
 - Renomear uma branch: `$ git branch -m <nome_antigo> <nome_novo>`
 - Excluir uma branch: `$ git branch -d <nome_da_branch>`
-- As branches são uma poderosa ferramenta do Git que permitem o trabalho paralelo em diferentes versões de um projeto, facilitando o desenvolvimento em equipe e o gerenciamento de mudanças. É importante compreender e utilizar corretamente as branches para garantir um fluxo de trabalho eficiente e organizado.
+
+Lembrando que as branches são uma poderosa ferramenta do Git que permitem o trabalho paralelo em diferentes versões de um projeto, facilitando o desenvolvimento em equipe e o gerenciamento de mudanças. É importante compreender e utilizar corretamente as branches para garantir um fluxo de trabalho eficiente e organizado.
 
